@@ -1,8 +1,25 @@
-# gym-typescript
 
-Build a Complete Typescript React Fitness Application for Beginners
+# 🏋️ Gym Landing Page
 
-Video: https://www.youtube.com/watch?v=I2NNxr3WPDo
+A modern, responsive landing page for a fitness/gym brand built with **Vite**, **TypeScript**, and **Tailwind CSS**.
 
-For all related questions and discussions about this project, check out the discord:
-https://discord.gg/2FfPeEk2mX
+## 🚀 Tech Stack
+
+- [Vite](https://vitejs.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [React](https://reactjs.org/)
+
+## 📸 Screenshot
+
+![Screenshot](./public/screenshot.png)
+
+## 📦 Installation
+
+```bash
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+```
